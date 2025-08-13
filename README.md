@@ -7,7 +7,7 @@
 ## Requisitos
 - **Python 3.8+** (recomendado 3.10).
 - **Librerías**: pandas, matplotlib, seaborn, numpy.
-- **Archivo de datos**: Descarga "Listado_Completo_69-B.csv" del portal del SAT (https://www.gob.mx/sat) y ponlo en la misma carpeta que el script.
+- **Archivo de datos**: Descarga "Listado_Completo_69-B.csv" del portal del SAT (https://www.sat.gob.mx) y ponlo en la misma carpeta que el script.
 - **Entorno**: Usa Conda (como Anaconda/Miniconda) para manejar paquetes fácilmente. Si no lo tienes, descarga de anaconda.com.
 
 ## Instalación
