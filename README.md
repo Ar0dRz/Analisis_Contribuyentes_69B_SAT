@@ -2,6 +2,8 @@
 
 ¡Hola! Este script en Python analiza el archivo CSV "Listado_Completo_69-B.csv" del SAT, contando categorías de contribuyentes (Presuntos, Definitivos, Desvirtuados y Otros) y generando gráficos con Seaborn y Matplotlib. Basado en datos hasta junio 2025, calcula totales, porcentajes y visualizaciones. Es ideal obtener visualización rápida sobre operaciones presuntamente inexistentes.
 
+![Figura No.1](Figure_1.png)
+
 ## Requisitos
 - **Python 3.8+** (recomendado 3.10).
 - **Librerías**: pandas, matplotlib, seaborn, numpy.
