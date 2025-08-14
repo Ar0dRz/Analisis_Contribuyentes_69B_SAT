@@ -2,6 +2,12 @@
 
 ¡Hola! Este script en Python analiza el archivo CSV "Listado_Completo_69-B.csv" del SAT, contando categorías de contribuyentes (Presuntos, Definitivos, Desvirtuados y Otros) y generando gráficos con Seaborn y Matplotlib. Basado en datos hasta junio 2025, calcula totales, porcentajes y visualizaciones. Es ideal obtener visualización rápida sobre operaciones presuntamente inexistentes.
 
+Listado de contribuyentes
+
+(Artículo 69-B del Código Fiscal de la Federación)
+Información actualizada al 30 de junio de 2025.
+Artículo 69-B, primer y segundo párrafo del CFF.
+
 ![Figura No.1](Figure_1.png)
 
 ## Requisitos
